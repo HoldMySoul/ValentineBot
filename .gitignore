@@ -1,16 +1,16 @@
 # Config files, logs and stuff
-AstrakoBot/modules/helper_funcs/temp.txt
-AstrakoBot/elevated_users.json
-AstrakoBot/config.py
-AstrakoBot/config.ini
+ValentineBot/modules/helper_funcs/temp.txt
+ValentineBot/elevated_users.json
+ValentineBot/config.py
+ValentineBot/config.ini
 log.txt
 kangsticker.png
 updates.txt
 
 # Session files
-AstrakoBot/*.session
-AstrakoBot/*.session-journal
-astrakobot.session-journal
+ValentineBot/*.session
+ValentineBot/*.session-journal
+ValentineBot.session-journal
 *.session-journal
 *.session
 
